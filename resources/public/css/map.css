@@ -1,0 +1,26 @@
+body {
+  margin: 10px;
+  background: #fff;
+}
+
+body, div, span, p, td, h1, h2, h3, a {
+  font-family: Arial, sans-serif;
+}
+
+.time-cursor {
+  fill-opacity: 50%;
+  cursor:ew-resize;
+}
+
+.state {
+  stroke: #fff;
+}
+
+.timeseries-graph {
+  display: inline-block;
+}
+
+.timeseries-legend {
+  vertical-align: top;
+  margin: 10px;
+}
